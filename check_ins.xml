@@ -1,0 +1,20 @@
+<RequeteUnitaire>
+    <IndividuVerifie>
+        <INSFourni>
+            <IdIndividu>
+                <NumIdentifiant>1111111111111</NumIdentifiant>
+                <Cle>12</Cle>
+                <TypeMatricule>INS</TypeMatricule>
+            </IdIndividu>
+            <OID>1.2.250.1.213.1.4.8</OID>
+        </INSFourni>
+        <TraitsIdentiteIndividu>
+            <NomNaissance>Dupond</NomNaissance>
+            <Prenom>Jean</Prenom>
+            <ListePrenom>Jean Pierre Jacques</ListePrenom>
+            <Sexe>M</Sexe>
+            <DateNaissance>1992-01-31</DateNaissance>
+            <LieuNaissance>Grenoble</LieuNaissance>
+        </TraitsIdentiteIndividu>
+    </IndividuVerifie>
+</RequeteUnitaire>

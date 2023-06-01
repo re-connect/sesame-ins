@@ -1,0 +1,15 @@
+<RECVITALE>
+    <NomNaissance>Dupond</NomNaissance>
+    <DateNaissance>1992-01-31</DateNaissance>
+    <RangNaissance>1</RangNaissance>
+    <MatriculeIndividu>
+        <NumIdentifiant>1111111111111</NumIdentifiant>
+        <Cle>12</Cle>
+        <TypeMatricule>INS</TypeMatricule>
+    </MatriculeIndividu>
+    <MatriculeOD>
+        <NumIdentifiant>1111111111111</NumIdentifiant>
+        <Cle>12</Cle>
+        <TypeMatricule>INS</TypeMatricule>
+    </MatriculeOD>
+</RECVITALE>
