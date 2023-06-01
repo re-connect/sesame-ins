@@ -1,6 +1,6 @@
 # Interconnexion Reconnect Pro - INS Sésame Vitale
 
-## 0 Principe global
+## 0. Principe global
 
 * Se connecter via des calls à une api SOAP : avec [Cette librairie](https://github.com/phpro/soap-client) ou avec l’extension [php-soap](https://www.php.net/manual/en/book.soap.php)
 * Utiliser le workflow Vérification unitaire seule (workflow A)
@@ -29,4 +29,9 @@
 
 ## Prochaines étapes :
 
-Clarifier le méchanisme d'authentification
+Clarifier le méchanisme d'authentification:
+
+* Certificat logiciel
+* CPx
+
+Dans les 2 cas, comment obtenir la clé d'authenth, et comment l'envoyer à l'API
